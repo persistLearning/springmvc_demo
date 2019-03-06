@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf3c9464-bfec-4a49-a43a-08bb5c474ab2" name="Default Changelist" comment="" />
+    <list default="true" id="bf3c9464-bfec-4a49-a43a-08bb5c474ab2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/first.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/first.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/first.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="308">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -117,8 +119,8 @@
         <option value="$PROJECT_DIR$/src/main/webapp/views/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/statics/css/index.css" />
         <option value="$PROJECT_DIR$/src/main/java/example/controller/HelloWorldController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/first.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/first.jsp" />
       </list>
     </option>
   </component>
@@ -146,7 +148,7 @@
     <option name="jreName" value="#JAVA_HOME" />
     <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1914" />
     <option name="height" value="1032" />
   </component>
@@ -175,6 +177,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="springmvcDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springmvcDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springmvcDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -185,7 +202,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551855758120" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551857028283" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -301,15 +318,16 @@
       <workItem from="1551773982404" duration="502000" />
       <workItem from="1551774531806" duration="6451000" />
       <workItem from="1551783832124" duration="167000" />
-      <workItem from="1551833737885" duration="1934000" />
+      <workItem from="1551833737885" duration="2578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9054000" />
+    <option name="totallyTimeSpent" value="9698000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30234438" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -411,8 +429,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/first.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="308">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
